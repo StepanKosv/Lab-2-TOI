@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\Lab 2 TOI\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Downloads\\St lr 2 TOI\\Lab 2 TOI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9CFBF16-4A83-42C3-AB8C-4EA2ECCA1675}|Lab 2 TOI\\Lab 2 TOI.vcxproj|C:\\Users\\user\\Downloads\\Lab 2 TOI\\Lab 2 TOI\\Lab 2 TOI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{F9CFBF16-4A83-42C3-AB8C-4EA2ECCA1675}|Lab 2 TOI\\Lab 2 TOI.vcxproj|C:\\Users\\user\\Downloads\\St lr 2 TOI\\Lab 2 TOI\\Lab 2 TOI\\Lab 2 TOI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F9CFBF16-4A83-42C3-AB8C-4EA2ECCA1675}|Lab 2 TOI\\Lab 2 TOI.vcxproj|solutionrelative:Lab 2 TOI\\Lab 2 TOI.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.42.34433\\include\\vector",
+              "ViewState": "AgIAAFYHAAAAAAAAAAAtwF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-12T13:59:09.338Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Lab 2 TOI.cpp",
-              "DocumentMoniker": "C:\\Users\\user\\Downloads\\Lab 2 TOI\\Lab 2 TOI\\Lab 2 TOI.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Downloads\\St lr 2 TOI\\Lab 2 TOI\\Lab 2 TOI\\Lab 2 TOI.cpp",
               "RelativeDocumentMoniker": "Lab 2 TOI\\Lab 2 TOI.cpp",
-              "ToolTip": "C:\\Users\\user\\Downloads\\Lab 2 TOI\\Lab 2 TOI\\Lab 2 TOI.cpp",
+              "ToolTip": "C:\\Users\\user\\Downloads\\St lr 2 TOI\\Lab 2 TOI\\Lab 2 TOI\\Lab 2 TOI.cpp",
               "RelativeToolTip": "Lab 2 TOI\\Lab 2 TOI.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAowGkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-09T15:36:10.734Z",
               "EditorCaption": ""
